@@ -6,4 +6,4 @@ Cписок проектов с кратким описанием задач и 
 
 |Название|Задачи|Инструменты|
 |:-------|:-----|:----------|
-|[Sausage market analytics](ссылка)||Tableau, Power BI|
+|[Sausage market analytics](https://github.com/rebeshanya/BI-projects/tree/main/Sausage%20market%20analytics)|Создание дашборда маркетингового агенства, отображающего статистику рынка колбас и колбасных продуктов за 5 лет.|Tableau, Power BI|
